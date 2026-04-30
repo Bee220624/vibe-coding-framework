@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding Framework"
+  short_description: "Guide AI agents before, during, and after vibe coding"
+  default_prompt: "Use $vibe-coding-framework to clarify a coding request, reduce it to a minimal plan, and review the result."
